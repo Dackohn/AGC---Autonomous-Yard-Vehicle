@@ -1,0 +1,3 @@
+[submodule "Edge_Computing"]
+	path = Edge_Computing
+	url = https://github.com/Dackohn/AGC---Edge-computing
