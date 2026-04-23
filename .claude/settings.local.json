@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"d:/lectures\\(anul 4\\)/IoT/development/UI/mosquitto/config\")",
+      "Bash(mkdir -p \"d:/lectures\\(anul 4\\)/IoT/development/UI/backend/sql\")",
+      "Bash(mkdir -p \"d:/lectures\\(anul 4\\)/IoT/development/UI/simulator\")",
+      "Bash(mkdir -p \"d:/lectures\\(anul 4\\)/IoT/development/UI/frontend/src/components\")",
+      "Bash(mkdir -p \"d:/lectures\\(anul 4\\)/IoT/development/UI/frontend/src/hooks\")"
+    ]
+  }
+}

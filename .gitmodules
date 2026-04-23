@@ -1,3 +1,6 @@
 [submodule "Edge_Computing"]
 	path = Edge_Computing
 	url = https://github.com/Dackohn/AGC---Edge-computing
+[submodule "ui"]
+	path = ui
+	url = https://github.com/Dackohn/AGC---UI
